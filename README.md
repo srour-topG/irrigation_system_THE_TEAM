@@ -1,6 +1,6 @@
 ![image](https://github.com/srour-topG/irrigation_system_THE_TEAM/blob/main/IMG-20260421-WA0009.jpg)
 
-![image]([https://github.com/username/repo/blob/main/image.png](https://github.com/srour-topG/irrigation_system_THE_TEAM/blob/main/IMG-20260421-WA0012.jpg))
+![image](https://github.com/srour-topG/irrigation_system_THE_TEAM/blob/main/IMG-20260421-WA0012.jpg)
 
 
 
